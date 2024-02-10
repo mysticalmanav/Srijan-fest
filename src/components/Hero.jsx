@@ -134,7 +134,7 @@ function Hero() {
                 animate="show"
                 className="h-22 overflow-x-hidden text-base font-normal text-gray-300 lg:text-lg sm:px-16 lg:px-48"
               >
-                <Countdown />
+            
               </motion.p>
               <motion.span
                 variants={textAnimate2}
